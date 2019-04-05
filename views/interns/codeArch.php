@@ -24,10 +24,10 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p> I am a front end developer, 
-                        i write javascript and javascript framework 
+                        <p> Hello my name is Bosah Arthur. I am a front end developer, 
+                        i write javascript and javascript framework using
                         Reactjs and React Native for mobile apps,
-                         i am raelly good at CSS and excellent 
+                         i am really good at CSS and excellent 
                          knowledge on HTML</p>
                         <br />
                         <h6>Skills</h6>
